@@ -1,0 +1,729 @@
+{
+  "updatedAt": "2026-10-15T09:39:00.385Z",
+  "projects": [
+    {
+      "name": "hummingbird",
+      "description": "Lightweight, flexible HTTP server framework written in Swift",
+      "url": "https://github.com/trmaphi/hummingbird",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "booking-scheduler",
+      "description": "Full-stack vehicle service appointment scheduler",
+      "url": "https://github.com/trmaphi/booking-scheduler",
+      "language": "Go",
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "trmaphi",
+      "description": "My public profile, engineering interests, and selected professional work.",
+      "url": "https://github.com/trmaphi/trmaphi",
+      "language": null,
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "anki-hanzi",
+      "description": "Learn, read, write and practice Mandarin by drawing strokes in Anki Desktop, AnkiDroid and AnkiMobile with audio of HSK 2.0 (HSK1-6) and HSK 3.0 (HSK 1-9), BCT and YCT words.",
+      "url": "https://github.com/trmaphi/anki-hanzi",
+      "language": "TypeScript",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "skills",
+      "description": "Personal Codex skills",
+      "url": "https://github.com/trmaphi/skills",
+      "language": "Shell",
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "awesome-crypto-mcp-servers",
+      "description": "Curated list of crypto, Web3, DeFi, wallet, and blockchain MCP servers for AI agents.",
+      "url": "https://github.com/trmaphi/awesome-crypto-mcp-servers",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "awesome-crypto-trading-agents",
+      "description": "A curated list of open-source AI-powered crypto trading agents, quant frameworks, and algorithmic trading bots for 2026.",
+      "url": "https://github.com/trmaphi/awesome-crypto-trading-agents",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "awesome-perp-dex",
+      "description": "The most comprehensive curated list of perp DEXs in 2026 — Hyperliquid, dYdX, GMX, Lighter, Aster, edgeX, Drift, Jupiter Perps, Aevo, Pacifica + 200 entries covering trading terminals, analytics, copy trading, bots, MCPs, and infrastructure.",
+      "url": "https://github.com/trmaphi/awesome-perp-dex",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "awesome-crypto-skills",
+      "description": "A curated list of open-source AI agent skills for cryptocurrency, Web3, and blockchain operations.",
+      "url": "https://github.com/trmaphi/awesome-crypto-skills",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "awesome-agent-skills",
+      "description": "Curated reusable skills, workflows, and tool-backed capabilities for AI agents.",
+      "url": "https://github.com/trmaphi/awesome-agent-skills",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "awesome-openclaw",
+      "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open-source self-hosted AI agent for WhatsApp, Telegram, Discord & 50+ integrations.",
+      "url": "https://github.com/trmaphi/awesome-openclaw",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "awesome-trading-bots",
+      "description": "A curated list of the best open-source trading bots for crypto, stocks, forex, options & prediction markets. By Viprasol Tech.",
+      "url": "https://github.com/trmaphi/awesome-trading-bots",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "awesome-finance-mcp",
+      "description": "A curated list of MCP servers for AI finance agents",
+      "url": "https://github.com/trmaphi/awesome-finance-mcp",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "freqtrade_download_hyperliquid_data",
+      "description": "Maintained Hyperliquid market data for Freqtrade, based on FrequentHippos’ data project.",
+      "url": "https://github.com/trmaphi/freqtrade_download_hyperliquid_data",
+      "language": null,
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "code-notify",
+      "description": "Cross-platform desktop notifications for Claude Code, Codex, and Gemini CLI. Install via Homebrew, npm, or script.",
+      "url": "https://github.com/trmaphi/code-notify",
+      "language": "Shell",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "CyberChef",
+      "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+      "url": "https://github.com/trmaphi/CyberChef",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "url": "https://github.com/trmaphi/nautilus_trader",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "superior-skills",
+      "description": null,
+      "url": "https://github.com/trmaphi/superior-skills",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "floci",
+      "description": "Light, fluffy, and always free - AWS Local Emulator ",
+      "url": "https://github.com/trmaphi/floci",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "dotfiles",
+      "description": "My dotfiles configuration using GNU stow",
+      "url": "https://github.com/trmaphi/dotfiles",
+      "language": "Shell",
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "freqtrade",
+      "description": "Free, open source crypto trading bot",
+      "url": "https://github.com/trmaphi/freqtrade",
+      "language": "Python",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "qdk",
+      "description": "Microsoft Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas",
+      "url": "https://github.com/trmaphi/qdk",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "ccxt",
+      "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go ",
+      "url": "https://github.com/trmaphi/ccxt",
+      "language": "Go",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "telegram-github-action",
+      "description": "GitHub Action for sending Telegram notification messages with topic (forum) support.",
+      "url": "https://github.com/trmaphi/telegram-github-action",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "freqtrade-old",
+      "description": "A maintained copy of the open-source Freqtrade cryptocurrency trading bot.",
+      "url": "https://github.com/trmaphi/freqtrade-old",
+      "language": "Python",
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "mcp-server-vscode",
+      "description": "Give Claude Code direct access to VS Code's code navigation, error checking, and debugging tools through the Model Context Protocol.",
+      "url": "https://github.com/trmaphi/mcp-server-vscode",
+      "language": "TypeScript",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "freqtrade_download_orderly_data",
+      "description": null,
+      "url": "https://github.com/trmaphi/freqtrade_download_orderly_data",
+      "language": null,
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "hyperliquid-postman",
+      "description": null,
+      "url": "https://github.com/trmaphi/hyperliquid-postman",
+      "language": null,
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "arrow-js",
+      "description": "Official JavaScript implementation of Apache Arrow",
+      "url": "https://github.com/trmaphi/arrow-js",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "bcos-metric-exporter",
+      "description": "Prometheus metrics exporter for Ethereum execution and consensus nodes.",
+      "url": "https://github.com/trmaphi/bcos-metric-exporter",
+      "language": "Go",
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "java-sdk-demo",
+      "description": "java sdk demo",
+      "url": "https://github.com/trmaphi/java-sdk-demo",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "CursorRIPER.sigma-lite",
+      "description": "CursorRIPER.sigma LITE version",
+      "url": "https://github.com/trmaphi/CursorRIPER.sigma-lite",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "CursorRIPER.sigma",
+      "description": "A symbolic, ultra-efficient AI prompt framework for software development assistance Based off CursorRIPER",
+      "url": "https://github.com/trmaphi/CursorRIPER.sigma",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "eth-faucet",
+      "description": "Ether faucet server built with Go and Svelte.",
+      "url": "https://github.com/trmaphi/eth-faucet",
+      "language": "Go",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "url": "https://github.com/trmaphi/go-ethereum",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "superior-agents",
+      "description": null,
+      "url": "https://github.com/trmaphi/superior-agents",
+      "language": "Python",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "hatchet",
+      "description": "A distributed, fault-tolerant task queue",
+      "url": "https://github.com/trmaphi/hatchet",
+      "language": "TypeScript",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "caliper",
+      "description": " A blockchain benchmark framework to measure performance of multiple blockchain solutions https://wiki.hyperledger.org/display/caliper",
+      "url": "https://github.com/trmaphi/caliper",
+      "language": "JavaScript",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "n8n-hosting",
+      "description": "Example of self-hosting n8n in various environments like docker, kubernetes, etc.",
+      "url": "https://github.com/trmaphi/n8n-hosting",
+      "language": "Shell",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "mcp-agent",
+      "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+      "url": "https://github.com/trmaphi/mcp-agent",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "tatum-kms",
+      "description": "Unbreakable secure KMS (key management system) integrated to Tatum blockchain infrastructure",
+      "url": "https://github.com/trmaphi/tatum-kms",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "ton-assets",
+      "description": null,
+      "url": "https://github.com/trmaphi/ton-assets",
+      "language": "Python",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "json-rpc-2.0",
+      "description": "Let your client and server talk over function calls under JSON-RPC 2.0 spec. Strongly typed. No external dependencies.",
+      "url": "https://github.com/trmaphi/json-rpc-2.0",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "web3-ethereum-defi",
+      "description": "A Python library for trading automation on DeFi, data research and integration. Supporting Uniswap, Aave, Chainlink, USDC and other protocols.",
+      "url": "https://github.com/trmaphi/web3-ethereum-defi",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "ton-connect-bot",
+      "description": "A simple bot written on Python to interact with TON wallets using Ton Connect protocol",
+      "url": "https://github.com/trmaphi/ton-connect-bot",
+      "language": "Python",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "daobi",
+      "description": null,
+      "url": "https://github.com/trmaphi/daobi",
+      "language": "Solidity",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "raft-rs",
+      "description": "Raft distributed consensus algorithm implemented in Rust.",
+      "url": "https://github.com/trmaphi/raft-rs",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "RustQuant",
+      "description": "Rust library for quantitative finance.",
+      "url": "https://github.com/trmaphi/RustQuant",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "web3j",
+      "description": "Lightweight Java and Android library for integration with Ethereum clients",
+      "url": "https://github.com/trmaphi/web3j",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "phaser",
+      "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
+      "url": "https://github.com/trmaphi/phaser",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "url": "https://github.com/trmaphi/bevy",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "awesome-motoko",
+      "description": "A curated list of Motoko code and resources.",
+      "url": "https://github.com/trmaphi/awesome-motoko",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "awesome-internet-computer",
+      "description": "A curated list of awesome projects and resources relating to the Internet Computer Protocol",
+      "url": "https://github.com/trmaphi/awesome-internet-computer",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "next-platform-starter",
+      "description": "An exploration of the Netlify Next.js platform starter and its cloud primitives.",
+      "url": "https://github.com/trmaphi/next-platform-starter",
+      "language": "JavaScript",
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "artemis",
+      "description": "A simple, modular, and fast framework for writing MEV bots in Rust.",
+      "url": "https://github.com/trmaphi/artemis",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "evm-inspectors",
+      "description": "EVM Execution Hooks.",
+      "url": "https://github.com/trmaphi/evm-inspectors",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "staking-play",
+      "description": "A Hardhat smart-contract experiment with sample contracts, tests, and deployment scripts.",
+      "url": "https://github.com/trmaphi/staking-play",
+      "language": "JavaScript",
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "arroyo",
+      "description": "Distributed stream processing engine in Rust",
+      "url": "https://github.com/trmaphi/arroyo",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "trmaphi.github.io",
+      "description": "The source for this portfolio, built with Next.js and published on GitHub Pages.",
+      "url": "https://github.com/trmaphi/trmaphi.github.io",
+      "language": "TypeScript",
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "reth",
+      "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+      "url": "https://github.com/trmaphi/reth",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "lighthouse",
+      "description": "Ethereum consensus client in Rust",
+      "url": "https://github.com/trmaphi/lighthouse",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "charts",
+      "description": null,
+      "url": "https://github.com/trmaphi/charts",
+      "language": null,
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "dotfile-powershell",
+      "description": null,
+      "url": "https://github.com/trmaphi/dotfile-powershell",
+      "language": null,
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "graphql-oauth2-integration",
+      "description": "This is a Proof of Concept of authorization delegation for GraphQL API.",
+      "url": "https://github.com/trmaphi/graphql-oauth2-integration",
+      "language": "JavaScript",
+      "fork": false,
+      "archived": true,
+      "topics": []
+    },
+    {
+      "name": "subql",
+      "description": null,
+      "url": "https://github.com/trmaphi/subql",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "evm-opcodes",
+      "description": "A quick reference for EVM opcodes",
+      "url": "https://github.com/trmaphi/evm-opcodes",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "eos-monitor",
+      "description": "Demux-js implementation for EOS history-tools",
+      "url": "https://github.com/trmaphi/eos-monitor",
+      "language": "TypeScript",
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "presto",
+      "description": "The official home of the Presto distributed SQL query engine for big data",
+      "url": "https://github.com/trmaphi/presto",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "icp-study",
+      "description": null,
+      "url": "https://github.com/trmaphi/icp-study",
+      "language": null,
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "computer-science",
+      "description": "Personal collections on theoretical Computer Science concepts",
+      "url": "https://github.com/trmaphi/computer-science",
+      "language": "C",
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "evm",
+      "description": "An ethereum virtual machine (EVM) bytecode decompiler",
+      "url": "https://github.com/trmaphi/evm",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "nestjs-typeorm-paginate",
+      "description": ":page_with_curl: Pagination response object function + types for typeorm + nestjs",
+      "url": "https://github.com/trmaphi/nestjs-typeorm-paginate",
+      "language": "TypeScript",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "challenge",
+      "description": null,
+      "url": "https://github.com/trmaphi/challenge",
+      "language": "JavaScript",
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "go-substrate-rpc-client",
+      "description": "Substrate RPC client for go aka GSRPC",
+      "url": "https://github.com/trmaphi/go-substrate-rpc-client",
+      "language": "Go",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "website-cua-tui",
+      "description": null,
+      "url": "https://github.com/trmaphi/website-cua-tui",
+      "language": null,
+      "fork": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "cif-js",
+      "description": null,
+      "url": "https://github.com/trmaphi/cif-js",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "npm-WebDAV-Server",
+      "description": "WebDAV Server for npm",
+      "url": "https://github.com/trmaphi/npm-WebDAV-Server",
+      "language": "TypeScript",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "aws-cli",
+      "description": "Universal Command Line Interface for Amazon Web Services",
+      "url": "https://github.com/trmaphi/aws-cli",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "name": "aws-elasticsearch-client",
+      "description": "Unofficial AWS ElasticSearch Service client for Node.js",
+      "url": "https://github.com/trmaphi/aws-elasticsearch-client",
+      "language": "JavaScript",
+      "fork": false,
+      "archived": false,
+      "topics": [
+        "aws",
+        "elasticsearch",
+        "node"
+      ]
+    },
+    {
+      "name": "bash-it",
+      "description": "A community Bash framework.",
+      "url": "https://github.com/trmaphi/bash-it",
+      "language": "Shell",
+      "fork": true,
+      "archived": false,
+      "topics": []
+    }
+  ]
+}

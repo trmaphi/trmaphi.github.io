@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Truong Ma Phi · Personal portfolio
 
-## Getting Started
+The personal introduction, selected professional work, and public project directory at https://trmaphi.work.
 
-First, run the development server:
+## Local development
 
-```bash
+```sh
+npm ci
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The site uses Next.js static export. `npm run build` creates `out/` for GitHub Pages; it needs no application server or runtime credentials.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Checks
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```sh
+npm test
+npm run lint
+npm run build
+```
 
-## Learn More
+## Update the project directory
 
-To learn more about Next.js, take a look at the following resources:
+The directory is a checked-in snapshot of public repositories, with forks labeled separately. Only public repository metadata is stored; it makes no browser-side requests to GitHub.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+With GitHub CLI installed and authenticated, run:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```sh
+npm run refresh-projects
+```
 
-## Deploy on Vercel
+Review and commit `src/data/projects.json`. The refresh script paginates the public repositories API and preserves a small set of README-derived descriptions for repositories with missing metadata. It does not infer authorship from GitHub's fork flag.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Biography, professional work, and contact information are based on https://github.com/trmaphi/trmaphi. Edit `src/app/page.tsx` for these sections.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Pushes to `main` run tests, lint, the static build, and GitHub Pages deployment. Pull requests run the same checks without publishing.
