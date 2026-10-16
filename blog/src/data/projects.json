@@ -155,15 +155,6 @@
       "topics": []
     },
     {
-      "name": "superior-skills",
-      "description": null,
-      "url": "https://github.com/trmaphi/superior-skills",
-      "language": null,
-      "fork": true,
-      "archived": false,
-      "topics": []
-    },
-    {
       "name": "floci",
       "description": "Light, fluffy, and always free - AWS Local Emulator ",
       "url": "https://github.com/trmaphi/floci",
@@ -312,15 +303,6 @@
       "description": "Go implementation of the Ethereum protocol",
       "url": "https://github.com/trmaphi/go-ethereum",
       "language": null,
-      "fork": true,
-      "archived": false,
-      "topics": []
-    },
-    {
-      "name": "superior-agents",
-      "description": null,
-      "url": "https://github.com/trmaphi/superior-agents",
-      "language": "Python",
       "fork": true,
       "archived": false,
       "topics": []

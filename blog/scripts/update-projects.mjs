@@ -1,6 +1,9 @@
 import { execFileSync } from 'node:child_process'
 import { writeFile } from 'node:fs/promises'
 
+// Keep these repositories out of the public portfolio on future refreshes.
+const excludedRepositories = new Set(['superior-skills', 'superior-agents'])
+
 // Public README summaries for repositories without a GitHub description.
 const descriptions = {
   trmaphi:
@@ -29,7 +32,11 @@ for (let page = 1; ; page++) {
     ),
   )
   for (const repository of repositories) {
-    if (repository.private || repository.visibility !== 'public') continue
+    if (
+      repository.private ||
+      repository.visibility !== 'public' ||
+      excludedRepositories.has(repository.name)
+    ) continue
     projects.push({
       name: repository.name,
       description:

@@ -518,7 +518,7 @@ h2 > span {
   gap: 15px;
 }
 .work-card {
-  grid-column: span 2;
+  grid-column: span 3;
   display: flex;
   flex-direction: column;
   min-height: 242px;
@@ -556,10 +556,6 @@ h2 > span {
 .deca {
   color: #5375a1;
   background: #e4ecf5;
-}
-.superior {
-  color: #7765a0;
-  background: #eae5f3;
 }
 .brownfi {
   color: #906d4d;

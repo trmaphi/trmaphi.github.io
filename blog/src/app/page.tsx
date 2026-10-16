@@ -12,15 +12,6 @@ const work = [
     className: 'deca',
   },
   {
-    name: 'Superior Trade',
-    initials: 'st',
-    category: 'AI & trading',
-    description:
-      'AI-powered trading infrastructure and high-frequency trading agents.',
-    url: 'https://www.superior.trade/',
-    className: 'superior',
-  },
-  {
     name: 'BrownFi',
     initials: 'bf',
     category: 'Decentralized finance',
