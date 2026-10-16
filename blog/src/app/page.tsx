@@ -21,15 +21,6 @@ const work = [
     className: 'brownfi',
   },
   {
-    name: 'Web3Go',
-    initials: 'w3',
-    category: 'Data & infrastructure',
-    description:
-      'Data-heavy systems and infrastructure for the Web3 ecosystem.',
-    url: 'https://github.com/web3go-xyz',
-    className: 'web3go',
-  },
-  {
     name: 'Octan Network',
     initials: 'on',
     category: 'Data & infrastructure',

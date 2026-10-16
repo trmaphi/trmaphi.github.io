@@ -561,10 +561,6 @@ h2 > span {
   color: #906d4d;
   background: #eee4d8;
 }
-.web3go {
-  color: #577557;
-  background: #e2ebdc;
-}
 .octan {
   color: #696090;
   background: #e7e3ee;
@@ -1269,5 +1265,6 @@ h2 > span {
 .site-header nav a { padding-block: 12px; }
 .repository-arrow { display: inline-flex; justify-content: center; align-items: center; width: 30px; height: 30px; }
 .work-card:nth-last-child(-n + 2) { grid-column: span 3; }
+.work-card:last-child:nth-child(odd) { grid-column: 1 / -1; }
 @media (max-width: 700px) { .work-card:nth-last-child(-n + 2) { grid-column: span 1; } .project-search input { font-size: 16px; } .repository-card { min-height: 250px; } }
 @media (max-width: 400px) { .work-card:nth-last-child(-n + 2) { grid-column: auto; } }
